@@ -64,5 +64,9 @@ public class Restaurant {
     public String getName() {
         return name;
     }
+    
+    public int getItemValue(List<String> itemNames) {
+    	return 0;
+    }
 
 }
